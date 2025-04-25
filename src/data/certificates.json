@@ -1,0 +1,35 @@
+[
+    {
+      "Img": "/certificates/cert1.jpg",
+      "Title": "Competitive Programming"
+    },
+    {
+      "Img": "/certificates/cert2.jpg",
+      "Title": "Building Web Application in PHP"
+    },
+    {
+      "Img": "/certificates/cert3.jpg",
+      "Title": "Full Stack using Mern Stack"
+    },
+    {
+      "Img": "/certificates/cert4.jpg",
+      "Title": "HTML, CSS, And JavaScript for Web Developers"
+    },
+    {
+      "Img": "/certificates/cert6.jpg",
+      "Title": "Introduction to Generative AI"
+    },
+    {
+      "Img": "/certificates/cert8.jpg",
+      "Title": "Fundamentals of Network Communication"
+    },
+    {
+      "Img":"/certificates/cert9.jpg",
+      "Title" : "SQL for Data Science"
+    },
+    {
+      "Img":"/certificates/cert9.jpg",
+      "Title" : "Genrative AI with Large Language Models"
+    }
+
+  ]
