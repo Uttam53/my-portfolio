@@ -5,7 +5,7 @@ Welcome to my portfolio! This website showcases my skills, projects, and experie
 ## Demo
 
 You can view the live portfolio at:  
-[Ayush Portfolio](https://portfoliodevayush.vercel.app/)
+[Uttam's Portfolio](https://my-portfolio-roan-xi-74.vercel.app/)
 
 ## Features
 
